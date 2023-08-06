@@ -18,8 +18,10 @@ In solving the problem being faced by Contoso after consideration we came up wit
 Built our app so the sales reps can request for the resources they might need on this screen. 
 
 All requests made by the sales reps can also be seen on this screen as requests shown change based on the sales rep currently making use of the app.
+![image](https://github.com/artemis1511/Sales-Requisition-App/assets/107225504/080fb9f3-dd56-482f-aed3-64aeda307393)
 
-There's also the admin screen where exevutives can view all of the requisitions made by the sales team and also filter down to each individual sales rep as well as by what they requisitioned to know the pace at which items are being requested and plan accordingly.
+
+There's also the admin screen where executives can view all of the requisitions made by the sales team and also filter down to each individual sales rep as well as by what they requisitioned to know the pace at which items are being requested and plan accordingly.
 
 
 This solution would significantly cut down time spent on requisitions process.
