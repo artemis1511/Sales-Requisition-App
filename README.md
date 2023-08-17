@@ -22,6 +22,7 @@ All requests made by the sales reps can also be seen on this screen as requests 
 
 
 There's also the admin screen where executives can view all of the requisitions made by the sales team and also filter down to each individual sales rep as well as by what they requisitioned to know the pace at which items are being requested and plan accordingly.
+![image](https://github.com/artemis1511/Sales-Requisition-App/assets/107225504/6d35b344-6941-4f5d-8c7e-963f810af79c)
 
 
 This solution would significantly cut down time spent on requisitions process.
